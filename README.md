@@ -4,9 +4,11 @@ Show linter messages on the scrollbar.
 
 ## Installation
 
-To install `scrollmap-linter` search for [scrollmap-linter](https://web.pulsar-edit.dev/packages/scrollmap-linter) in the Install pane of the Pulsar settings or run `ppm install scrollmap-linter`. Alternatively, you can run `ppm install asiloisad/pulsar-scrollmap-linter` to install a package directly from the GitHub repository.
+To install `scrollmap-linter` search for [scrollmap-linter](https://github.com/asiloisad/pulsar-scrollmap-linter) in the Install pane of the Pulsar settings or run `ppm install scrollmap-linter`. Alternatively, you can run `ppm install asiloisad/pulsar-scrollmap-linter` to install a package directly from the GitHub repository.
 
-Layer package for [scrollmap](https://web.pulsar-edit.dev/packages/scrollmap). Requires [linter](https://web.pulsar-edit.dev/packages/linter) or [linter-bundle](https://web.pulsar-edit.dev/packages/linter-bundle).
+Layer package for [scrollmap](https://github.com/asiloisad/pulsar-scrollmap).
+
+Requires [linter](https://web.pulsar-edit.dev/packages/linter) or [linter-bundle](https://github.com/asiloisad/pulsar-linter-bundle).
 
 ## Contributing
 
