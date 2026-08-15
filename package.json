@@ -1,7 +1,7 @@
 {
   "name": "scrollmap-linter",
   "description": "Show linter messages on the scrollbar",
-  "repository": "https://github.com/asiloisad/pulsar-scrollmap-linter",
+  "repository": "https://github.com/asiloisad-pulsar/scrollmap-linter",
   "keywords": [
     "scrollmap",
     "linter",
